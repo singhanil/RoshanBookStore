@@ -76,7 +76,7 @@ namespace Assignment_prac
 
         private void btn_C_Click(object sender, EventArgs e)
         {
-            //could write hideSubMenu();
+            hideSubMenu();
         }
 
 
